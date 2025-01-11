@@ -1,7 +1,7 @@
 payload:
- -"nature.com"
- -"cell.com"
- -"sciencedirect.com"
- -"springer.com"
- -"wiley.com"
- -"clarivate.com"
+  -  'nature.com'
+  -  'cell.com'
+  -  'sciencedirect.com'
+  -  'springer.com'
+  -  'wiley.com'
+  -  'clarivate.com'
