@@ -1,4 +1,4 @@
-payload
+payload:
  -"nature.com",
  -"cell.com",
  -"sciencedirect.com",
