@@ -10,3 +10,4 @@ payload:
   -  '.plos.org'
   -  '.ieeexplore.ieee.org'
   -  '.jneurosci.org'
+  -  '.webofknowledge.com'
