@@ -5,6 +5,7 @@ payload:
   -  '.springer.com'
   -  '.wiley.com'
   -  '.clarivate.com'
+  -  '.webofscience.com'
   -  '.elsevier.com'
   -  '.science.org'
   -  '.plos.org'
